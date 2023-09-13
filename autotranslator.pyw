@@ -8,5 +8,5 @@ try:
 	url = "https://translate.google.com/?sl=auto&tl=bg&text="+word+"&op=translate"
 	webbrowser.open(url)
 except TclError:
-    
+
 	print('clipboard is empty')
