@@ -1,0 +1,2 @@
+The program asks for elevated privileges because it is set to run on startup.
+This is necessary for proper use of the program.
